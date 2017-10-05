@@ -3,10 +3,10 @@ var holiday = "Easter"
 var days = 3
 
 function happyHolidays() {
-  return "Happy holidays!"
+  return 'Happy holidays!'
 }
 
-function happyHolidaysTo (${name}) {
+function happyHolidaysTo (name) {
   return `Happy holidays, ${name}!`
 }
 
