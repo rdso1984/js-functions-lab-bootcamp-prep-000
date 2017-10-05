@@ -1,4 +1,3 @@
-// write your code below!
 var name = "you"
 var holiday = "Easter"
 var days = 3
